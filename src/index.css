@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.app .tiger_main_button{
+  margin: 20px;
+  padding: 5px;
+  background-color: #c66f30cf;
+  width: 150px;
+  border: none;
+}
+
+.app .question_container{
+  margin: 20px;
+  width: 400px;
+}
+
+.app .question_container .input_grp{
+  margin: 10px;
+}
+
+.app .question_container .options_text{
+  font-size: 15px;
+  font-weight: bold;
+  margin-left: 10px;
+}
